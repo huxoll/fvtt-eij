@@ -1,4 +1,4 @@
-[![Foundry](https://img.shields.io/badge/Foundry%40MinimumCore-0.6.6-yellow)](https://foundryvtt.com/)
+[![Foundry](https://img.shields.io/badge/Foundry%40MinimumCore-0.8.0-yellow)](https://foundryvtt.com/)
 [![Foundry](https://img.shields.io/badge/Foundry%40CompatibleCore-10.0.0-brightgreen)](https://foundryvtt.com/)
 ![GitHub All Releases](https://img.shields.io/github/downloads/sparkcity/fvtt-eij/total)
 ![GitHub Latest Release](https://img.shields.io/github/downloads/sparkcity/fvtt-eij/latest/total)
